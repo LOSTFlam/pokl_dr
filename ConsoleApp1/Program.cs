@@ -5,3 +5,5 @@
         Console.WriteLine("Hello, World!");
     }
 }
+program Opa
+int char
