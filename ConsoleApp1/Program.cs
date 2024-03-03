@@ -2,5 +2,5 @@ Program Laba
 int char A,B,C;
 
 
-
-οπξαλεμΰ
+ttt
+Γ―Γ°Γ®Γ‘Γ«Γ₯Γ¬Γ 
